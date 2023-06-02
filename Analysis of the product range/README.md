@@ -7,7 +7,7 @@
 - Creating a dashboard in Tableau;
 - Create presentations.
 
-**Technology stack:** 'pandas', 'plotly', 'bs4', 'requests', 'scipy'
+**Technology stack:** `pandas`, `plotly`, `bs4`, `requests`, `scipy`
 
 # Project description
 ### Customer: product manager
