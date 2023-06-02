@@ -11,7 +11,7 @@
 
 # Project description
 ### Customer: 
-product manager
+Product manager
 
 ### Tasks:
 - Conduct exploratory data analysis;
@@ -34,7 +34,3 @@ The customer provided a dataset with transactions for an online store of goods f
 Using data parsing, I formed product categories. For each category, he described its characteristics: the number of goods, seasonality, price range and share of total revenue. Then, together with the customer, we determined the criterion for classifying categories as the main ones - the average revenue per product. According to this criterion, I suggested which categories can be attributed to the main ones. To confirm my assumption, I conducted a statistical hypothesis test. The test confirmed the assumption.
 
 I provided the result for the product range manager in the form of a presentation and a dashboard.
-
-
-
-
